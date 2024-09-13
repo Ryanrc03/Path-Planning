@@ -6,13 +6,15 @@ Multibeam echo sounding systems overcome the limitations of single-beam systems 
 
 ![model](model.png)
 
-![sea](sea.png)
+
 
 ### Problem 1
 
 - **Task 1:** Develop a model for coverage width and overlap ratio between adjacent strips. Using geometric relationships and related variables, we derive the coverage width model. Given flat seabed slopes and parallel survey lines, we establish the overlap ratio model.
   
 - **Task 2:** Calculate the relevant metrics using the established model. With uniform survey line intervals, the depth decreases linearly from 90.9487m to 49.0513m along the survey line direction. The coverage width decreases from 315.8133m to 170.3272m. Starting from the second line, the overlap ratio decreases from 32.8019% to negative values. See the main text or `result1.xlsx` for more data.
+
+![sea](sea.png)
 
 ### Problem 2
 
